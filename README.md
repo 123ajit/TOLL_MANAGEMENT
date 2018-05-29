@@ -1,2 +1,2 @@
-# Web-Design
-Business website with help of Bootstrap, JavaScript, HTML5, CSS5
+# JAVA J2EE SPRING HIBERNATE WEB SERVICES
+PROJECT BASED ON TOLL MANAGEMENT SYSTEM
